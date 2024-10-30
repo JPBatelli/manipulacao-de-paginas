@@ -1,6 +1,6 @@
-var nomeAluno = "João Pedro da Silva";
+var nomeAluno = "João Pedro de Miranda Batelli";
 var nota_01 = 10;
-var nota_02 = 10;
+var nota_02 = 8.8;
 var nota_01 = 7;
 var nota_02 = 8.5;
 var nota_01_peso = nota_01 * 0.6;
